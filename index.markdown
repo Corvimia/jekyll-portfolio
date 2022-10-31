@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+Go to <a href="/blog">blog</a>

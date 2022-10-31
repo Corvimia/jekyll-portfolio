@@ -30,6 +30,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-analytics (0.1.14)
     jekyll-dash (2.4.0)
       jekyll (~> 4.0)
       jekyll-feed (~> 0.14)
@@ -82,6 +83,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.1)
+  jekyll-analytics
   jekyll-dash
   jekyll-feed (~> 0.12)
   jekyll-tagging
