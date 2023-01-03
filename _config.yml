@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mia's personal website
+title: Mia's website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -76,9 +76,6 @@ dash:
     - url: https://twitter.com/Yorublaireau
       icon: twitter-square
       color: cyan
-#    - url: https://bitbrain.itch.io
-#      icon: itch-io
-#      color: red
     - url: https://github.com/yorublaireau
       icon: github-square
       color: purple
@@ -86,4 +83,4 @@ dash:
   # whether the author box should be displayed or not
   show_author: true
 
-google_analytics: G-ZL3MVKR7ZQ
+google_analytics: G-Z2XYZZL9EM
